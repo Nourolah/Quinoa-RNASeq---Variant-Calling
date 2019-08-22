@@ -1,1 +1,1 @@
-# Quinoa-RNASeq---Variant-Calling
+# Quinoa RNASeq / Variant Calling
